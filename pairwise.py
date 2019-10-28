@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 
-### Written by Dominique Neitzel Wagner and Grace Bottom, October 2015
+### Written by Dominique Neitzel Wagner and Grace Bottom, December 2014
 
 import sys
 import re
